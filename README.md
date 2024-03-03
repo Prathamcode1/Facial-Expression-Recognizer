@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```python
 python app.py
 ```
-That's it, you can see the web application running at you localhost.<br>
+That's it, you can see the web application running at your localhost.<br>
 
 ## Emotions Detected in a Image
-![alt-text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fmy-first-cnn-project-emotion-detection-using-convolutional-neural-network-with-tpu%2F&psig=AOvVaw26V-WZNNG4Q2EsG5kTYaxN&ust=1709573248227000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj43uTO2IQDFQAAAAAdAAAAABAQ](https://analyticsindiamag.com/wp-content/uploads/2020/07/emotion-recog.png)https://analyticsindiamag.com/wp-content/uploads/2020/07/emotion-recog.png)
+![alt-text](https://analyticsindiamag.com/wp-content/uploads/2020/07/emotion-recog.png)
