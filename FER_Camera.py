@@ -38,7 +38,6 @@ class VideoCamera:
 
                 max_index = np.argmax(model.predict(img.reshape((1,48,48,1))), axis=-1)[0]
 
-                  
                 predicted_emotion = emotions[max_index]  
 
                 cv2.putText(test_img, predicted_emotion, (int(x), int(y)), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,0,255), 2)
