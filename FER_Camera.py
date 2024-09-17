@@ -1,5 +1,4 @@
 from tensorflow.keras.models import model_from_json
-
 import cv2
 import numpy as np
 
